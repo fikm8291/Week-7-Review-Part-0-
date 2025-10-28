@@ -1,5 +1,5 @@
 # -------------------------------------------
-# Exercise 1: Revision
+# Exercise 1: Review
 # -------------------------------------------
 # In this exercise, we’ll continue revising all the core Python concepts covered so far:
 # - Variables, input(), and print()
